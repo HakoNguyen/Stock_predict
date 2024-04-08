@@ -1,5 +1,4 @@
 # Stock_predict
-A product of DataTeam
 
 Sản phẩm là bài dự thi AI challenge của RIPT khóa D23.
 Sản phẩm còn nhiều thiếu sót nhưng đó là sự cố gắng của nhiều đêm không ngủ, chọn lọc thuật toán và nghiên cứu hướng đi của thành viên.
